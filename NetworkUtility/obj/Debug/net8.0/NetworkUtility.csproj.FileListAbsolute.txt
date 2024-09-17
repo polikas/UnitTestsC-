@@ -1,0 +1,14 @@
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\bin\Debug\net8.0\NetworkUtility.exe
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\bin\Debug\net8.0\NetworkUtility.deps.json
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\bin\Debug\net8.0\NetworkUtility.runtimeconfig.json
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\bin\Debug\net8.0\NetworkUtility.dll
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\bin\Debug\net8.0\NetworkUtility.pdb
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfoInputs.cache
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfo.cs
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.dll
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\refint\NetworkUtility.dll
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.pdb
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\NetworkUtility.genruntimeconfig.cache
+C:\Users\Stavros\source\repos\NetworkUtility\NetworkUtility\obj\Debug\net8.0\ref\NetworkUtility.dll
